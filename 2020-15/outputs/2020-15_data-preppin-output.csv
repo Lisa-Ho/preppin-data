@@ -1,0 +1,15 @@
+AssociationRule,LHSItem,RHSItem,LHS Support,RHS Support,Confidence,lift
+razors > moisturiser,razors,moisturiser,0.4,0.8,0.5,0.6249999999999999
+razors > shaving soap,razors,shaving soap,0.4,0.4,0.5,1.2499999999999998
+hand soap > moisturiser,hand soap,moisturiser,0.6,0.8,1.0,1.25
+hand soap > bath bomb,hand soap,bath bomb,0.6,0.2,0.3333333333333333,1.6666666666666667
+hand soap > shaving soap,hand soap,shaving soap,0.6,0.4,0.3333333333333333,0.8333333333333334
+moisturiser > razors,moisturiser,razors,0.8,0.4,0.25,0.6249999999999999
+moisturiser > hand soap,moisturiser,hand soap,0.8,0.6,0.75,1.25
+moisturiser > bath bomb,moisturiser,bath bomb,0.8,0.2,0.25,1.2499999999999998
+moisturiser > shaving soap,moisturiser,shaving soap,0.8,0.4,0.25,0.6249999999999999
+bath bomb > hand soap,bath bomb,hand soap,0.2,0.6,1.0,1.6666666666666667
+bath bomb > moisturiser,bath bomb,moisturiser,0.2,0.8,1.0,1.2499999999999998
+shaving soap > razors,shaving soap,razors,0.4,0.4,0.5,1.2499999999999998
+shaving soap > hand soap,shaving soap,hand soap,0.4,0.6,0.5,0.8333333333333334
+shaving soap > moisturiser,shaving soap,moisturiser,0.4,0.8,0.5,0.6249999999999999
